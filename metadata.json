@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Peer News Agent",
+  "description": "An intelligent agent that fetches, filters, and analyzes daily AI and tech news with a premium Red Noir dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
